@@ -268,6 +268,9 @@ font-weight: var(--font-medium);
   padding-top: 3.5rem;
   align-items: center;
 }
+.home__description{
+    text-align:justify;
+}
 .home__social{
   display: grid;
   grid-template-columns: max-content;
@@ -658,6 +661,7 @@ color: var(--first-color);
 }
 .portfolio__description{
   margin-bottom: var(--mb-0-75);
+      text-align: justify;
 }
 .portfolio__button:hover .button__icon{
   transform: translate(.25rem);
