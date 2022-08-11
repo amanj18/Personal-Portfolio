@@ -158,7 +158,7 @@ const getCurrentTheme = () => document.body.classList.contains(darkTheme) ? 'lig
 const getCurrentIcon = () => themeButton.classList.contains(iconTheme) ? 'uil-moon' : 'uil-sun'
 
 if (selectedTheme) {
-    document.body.classList[selectedTheme === 'dark' ? 'add' : 'remove'](darkTheme)
+    document.body.classList[selectedTheme === 'dark' ? 'remove' : 'add'](darkTheme)
     themeButton.classList[selectedIcon === 'uil-moon' ? 'add' : 'remove'](iconTheme)
 }
 
