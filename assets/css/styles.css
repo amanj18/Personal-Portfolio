@@ -960,6 +960,7 @@ color: var(--first-color);
    }
    .header{
     background-color: rgb(99, 90, 223);
-    margin-bottom: 42rem;
+/*     margin-bottom: 42rem; */
+       position:relative;
    }
 }
