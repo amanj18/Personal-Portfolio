@@ -1,4 +1,4 @@
-Website Link : https://amanj-18.github.io/OIBSIP-Personal-Portfolio/
+Website Link : https://amanj-18.github.io/Personal-Portfolio/
 
 key Features : Home , Aboutme , Skills , Services , Projects , Qualification , testimonial , contactme .
 
